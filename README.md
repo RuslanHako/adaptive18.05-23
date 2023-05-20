@@ -1,1 +1,3 @@
-# adaptive18.05-23
+# adaptive
+
+https://ruslanhako.github.io/adaptive18.05/
